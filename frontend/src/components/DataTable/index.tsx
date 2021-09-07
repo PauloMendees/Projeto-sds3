@@ -6,8 +6,8 @@ const DataTable = () => {
                     <tr>
                         <th>Data</th>
                         <th>Vendedor</th>
-                        <th>Cidade</th>
-                        <th>Volumes</th>
+                        <th>Visitas</th>
+                        <th>Negócios Fechados</th>
                         <th>Valor</th>
                     </tr>
                 </thead>
