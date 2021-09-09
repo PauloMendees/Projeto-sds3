@@ -15,70 +15,70 @@ const DataTable = () => {
                     <tr>
                         <td>22/04/2021</td>
                         <td>Nilson</td>
-                        <td>Goiânia</td>
+                        <td>20</td>
                         <td>10</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
                         <td>Nilson</td>
-                        <td>Goiânia</td>
+                        <td>20</td>
                         <td>10</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
                         <td>Nilson</td>
-                        <td>Goiânia</td>
+                        <td>20</td>
                         <td>10</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
                         <td>Nilson</td>
-                        <td>Goiânia</td>
+                        <td>20</td>
                         <td>10</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
                         <td>Nilson</td>
-                        <td>Goiânia</td>
+                        <td>20</td>
                         <td>10</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
                         <td>Nilson</td>
-                        <td>Goiânia</td>
+                        <td>20</td>
                         <td>10</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
                         <td>Nilson</td>
-                        <td>Goiânia</td>
+                        <td>20</td>
                         <td>10</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
                         <td>Nilson</td>
-                        <td>Goiânia</td>
+                        <td>20</td>
                         <td>10</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
                         <td>Nilson</td>
-                        <td>Goiânia</td>
+                        <td>20</td>
                         <td>10</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>22/04/2021</td>
                         <td>Nilson</td>
-                        <td>Goiânia</td>
+                        <td>20</td>
                         <td>10</td>
                         <td>15017.00</td>
                     </tr>
